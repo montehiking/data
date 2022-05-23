@@ -1,0 +1,23 @@
+{
+  "coordinates": {
+    "latitude": 42.27815,
+    "longitude": 18.837637
+  },
+  "verified": true,
+
+  "name": {
+    "hbs": "Budva",
+    "ru": "Будва"
+  },
+  "description": {
+    "hbs": "stari grad",
+    "ru": "старый город"
+  },
+  "article": {
+    "hbs": [],
+    "ru": []
+  },
+
+  "photos": [],
+  "sources": []
+}
