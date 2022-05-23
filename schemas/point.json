@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "title": "fields scheme for a point",
+  "properties": {
+    "coordinates": {
+      "type": "object",
+      "description": "point coordinates",
+      "properties": {
+        "latitude": {
+          "type": "number",
+          "description": "point latitude",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "longitude": {
+          "type": "number",
+          "description": "point longitude",
+          "minimum": -180,
+          "maximum": 180
+        }
+      },
+      "required": ["latitude", "longitude"],
+      "additionalProperties": false
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "this point has been verified by an administrator"
+    },
+    "name": {
+      "type": "object",
+      "description": "point name",
+      "properties": {
+        "hbs": {
+          "type": "string",
+          "description": "native name"
+        },
+        "ru": {
+          "type": "string",
+          "description": "russian name"
+        }
+      },
+      "required": ["hbs", "ru"],
+      "additionalProperties": false
+    },
+    "description": {
+      "type": "object",
+      "description": "point description",
+      "properties": {
+        "hbs": {
+          "type": "string",
+          "description": "native description"
+        },
+        "ru": {
+          "type": "string",
+          "description": "russian description"
+        }
+      },
+      "required": ["hbs", "ru"],
+      "additionalProperties": false
+    },
+    "article": {
+      "type": "object",
+      "description": "article text",
+      "properties": {
+        "hbs": {
+          "type": "array",
+          "description": "native article",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ru": {
+          "type": "array",
+          "description": "russian article",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["hbs", "ru"],
+      "additionalProperties": false
+    },
+    "photos": {
+      "type": "array",
+      "description": "photos of the object",
+      "maxItems": 5,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "description": "point photo",
+        "properties": {
+          "filename": {
+            "type": "string",
+            "description": "filename with extension"
+          },
+          "copyright": {
+            "type": "object",
+            "description": "photo copyright",
+            "properties": {
+              "text": {
+                "type": "string",
+                "description": "copyright text"
+              },
+              "url": {
+                "type": "string",
+                "description": "copyright url"
+              }
+            },
+            "required": ["text"],
+            "additionalProperties": false
+          }
+        },
+        "required": ["filename"],
+        "additionalProperties": false
+      }
+    },
+    "sources": {
+      "type": "array",
+      "description": "links to sources of information",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "description": "photo copyright",
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "link text"
+          },
+          "url": {
+            "type": "string",
+            "description": "link url"
+          }
+        },
+        "required": ["url"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "coordinates",
+    "name",
+    "description",
+    "article",
+    "photos",
+    "sources"
+  ],
+  "additionalProperties": false
+}
