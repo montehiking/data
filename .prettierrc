@@ -1,0 +1,12 @@
+{
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "importOrder": [
+    "^(fs|path)$",
+    "<THIRD_PARTY_MODULES>",
+    "^package.json$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
