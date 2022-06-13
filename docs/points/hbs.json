@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.837637, 42.27815] },
+      "properties": {
+        "name": "Budva",
+        "description": "stari grad",
+        "category": "oldtown",
+        "path": "/points/oldtown/budva/"
+      }
+    }
+  ]
+}

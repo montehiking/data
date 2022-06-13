@@ -1,6 +1,7 @@
 import { promises } from 'fs';
 import { createRequire } from 'module';
 import { join, sep } from 'path';
+import prettier from 'prettier';
 
 const { readdir, writeFile } = promises;
 
@@ -30,7 +31,10 @@ const getFilenames = async (directory) => {
 };
 
 (async () => {
-  const filenames = await getFilenames(ROOT);
+  const [filenames, prettierOptions] = await Promise.all([
+    getFilenames(ROOT),
+    prettier.resolveConfig(process.cwd()),
+  ]);
 
   const files = filenames.map((item) => ({
     ...item,
@@ -39,7 +43,7 @@ const getFilenames = async (directory) => {
 
   files.forEach(({ file, category, id, type }) => {
     LOCALES.forEach((locale) => {
-      const key = `${type}${sep}${locale}.min.json`;
+      const key = `${type}${sep}${locale}.json`;
 
       if (!data[key]) {
         data[key] = { type: 'FeatureCollection', features: [] };
@@ -65,7 +69,10 @@ const getFilenames = async (directory) => {
   await Promise.all(
     Object.keys(data).map((key) => {
       const path = join(ROOT, key);
-      const text = JSON.stringify(data[key]);
+      const text = prettier.format(JSON.stringify(data[key], null), {
+        ...prettierOptions,
+        parser: 'json',
+      });
 
       return writeFile(path, text);
     })
