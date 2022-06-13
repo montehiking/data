@@ -4,7 +4,7 @@
   "description": "Data for MonteHiking app",
   "repository": "git@github.com:montehiking/data.git",
   "author": "Kirill Neruchev <kirill@neruchev.com>",
-  "license": "MIT",
+  "license": "SEE LICENSE IN ./LICENSE",
   "private": false,
   "scripts": {
     "postinstall": "husky install && yarn run build",
