@@ -14,7 +14,7 @@ type FileName = {
 };
 
 const ROOT = 'docs';
-const LOCALES = ['ru', 'hbs'] as const;
+const LOCALES = ['en', 'hbs', 'ru'] as const;
 
 const getFilenames = async (directory: string): Promise<FileName[]> => {
   const files: FileName[] = [];
@@ -50,8 +50,8 @@ const getFilenames = async (directory: string): Promise<FileName[]> => {
       features: files.map(({ file, category, id, type }) => ({
         type: 'Feature',
         geometry: {
-          type: 'Point',
-          coordinates: [file.coordinates.longitude, file.coordinates.latitude],
+          type: category === 'trails' ? 'LineString' : 'Point',
+          coordinates: file.coordinates,
         },
         properties: {
           name: file.name[locale],

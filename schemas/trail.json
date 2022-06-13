@@ -1,25 +1,30 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "object",
-  "title": "Point schema",
+  "title": "Trail schema",
   "properties": {
     "coordinates": {
       "type": "array",
-      "description": "point coordinates (longitude, latitude)",
-      "minItems": 2,
-      "maxItems": 2,
+      "description": "trail coordinates",
       "items": {
-        "type": "number"
+        "type": "array",
+        "description": "point coordinates (longitude, latitude, altitude)",
+        "minItems": 3,
+        "maxItems": 3,
+        "items": {
+          "type": "number"
+        },
+        "additionalProperties": false
       },
       "additionalProperties": false
     },
     "verified": {
       "type": "boolean",
-      "description": "this point has been verified by an administrator"
+      "description": "this trail has been verified by an administrator"
     },
     "name": {
       "type": "object",
-      "description": "point name",
+      "description": "trail name",
       "properties": {
         "en": {
           "type": "string",
@@ -39,7 +44,7 @@
     },
     "description": {
       "type": "object",
-      "description": "point description",
+      "description": "trail description",
       "properties": {
         "en": {
           "type": "string",
@@ -94,7 +99,7 @@
       "uniqueItems": true,
       "items": {
         "type": "object",
-        "description": "point photo",
+        "description": "trail photo",
         "properties": {
           "filename": {
             "type": "string",
