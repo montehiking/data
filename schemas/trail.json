@@ -1,0 +1,176 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "title": "Trail schema",
+  "properties": {
+    "coordinates": {
+      "type": "array",
+      "description": "trail coordinates",
+      "items": {
+        "type": "array",
+        "description": "point coordinates (longitude, latitude, altitude)",
+        "minItems": 3,
+        "maxItems": 3,
+        "items": {
+          "type": "number"
+        },
+        "additionalProperties": false
+      },
+      "additionalProperties": false
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "this trail has been verified by an administrator"
+    },
+    "name": {
+      "type": "object",
+      "description": "trail name",
+      "properties": {
+        "en": {
+          "type": "string",
+          "description": "english name"
+        },
+        "hbs": {
+          "type": "string",
+          "description": "native name"
+        },
+        "ru": {
+          "type": "string",
+          "description": "russian name"
+        }
+      },
+      "required": ["en", "hbs", "ru"],
+      "additionalProperties": false
+    },
+    "description": {
+      "type": "object",
+      "description": "trail description",
+      "properties": {
+        "en": {
+          "type": "string",
+          "description": "english description"
+        },
+        "hbs": {
+          "type": "string",
+          "description": "native description"
+        },
+        "ru": {
+          "type": "string",
+          "description": "russian description"
+        }
+      },
+      "required": ["en", "hbs", "ru"],
+      "additionalProperties": false
+    },
+    "article": {
+      "type": "object",
+      "description": "article text",
+      "properties": {
+        "en": {
+          "type": "array",
+          "description": "english article",
+          "items": {
+            "type": "string"
+          }
+        },
+        "hbs": {
+          "type": "array",
+          "description": "native article",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ru": {
+          "type": "array",
+          "description": "russian article",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["en", "hbs", "ru"],
+      "additionalProperties": false
+    },
+    "photos": {
+      "type": "array",
+      "description": "photos of the object",
+      "minItems": 1,
+      "maxItems": 5,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "description": "trail photo",
+        "properties": {
+          "filename": {
+            "type": "string",
+            "description": "filename with extension"
+          },
+          "description": {
+            "type": "string",
+            "description": "photo description"
+          },
+          "date": {
+            "type": "string",
+            "description": "photo date"
+          },
+          "copyright": {
+            "type": "object",
+            "description": "photo copyright",
+            "properties": {
+              "text": {
+                "type": "string",
+                "description": "copyright text"
+              },
+              "url": {
+                "type": "string",
+                "description": "copyright url"
+              },
+              "license": {
+                "type": "string",
+                "description": "license"
+              },
+              "year": {
+                "type": "string",
+                "description": "copyright year"
+              }
+            },
+            "required": ["text"],
+            "additionalProperties": false
+          }
+        },
+        "required": ["filename"],
+        "additionalProperties": false
+      }
+    },
+    "sources": {
+      "type": "array",
+      "description": "links to sources of information",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "description": "photo copyright",
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "link text"
+          },
+          "url": {
+            "type": "string",
+            "description": "link url"
+          }
+        },
+        "required": ["url"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "coordinates",
+    "name",
+    "description",
+    "article",
+    "photos",
+    "sources"
+  ],
+  "additionalProperties": false
+}
