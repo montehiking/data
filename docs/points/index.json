@@ -1,0 +1,29 @@
+{
+  "title": {
+    "en": "Attractions",
+    "hbs": "Atrakcije",
+    "ru": "Локации"
+  },
+  "description": [
+    {
+      "en": "no attractions",
+      "hbs": "nema atrakcija",
+      "ru": "нет локаций"
+    },
+    {
+      "en": "{count} attraction",
+      "hbs": "{count} atrakcija",
+      "ru": "{count} локация"
+    },
+    {
+      "en": "{count} attractions",
+      "hbs": "{count} atrakcije",
+      "ru": "{count} локации"
+    },
+    {
+      "en": "{count} attractions",
+      "hbs": "{count} atrakcija",
+      "ru": "{count} локаций"
+    }
+  ]
+}

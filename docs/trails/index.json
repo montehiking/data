@@ -1,0 +1,29 @@
+{
+  "title": {
+    "en": "Trails",
+    "hbs": "Staze",
+    "ru": "Маршруты"
+  },
+  "description": [
+    {
+      "en": "no trails",
+      "hbs": "nema staza",
+      "ru": "нет маршрутов"
+    },
+    {
+      "en": "{count} trail",
+      "hbs": "{count} staza",
+      "ru": "{count} маршрут"
+    },
+    {
+      "en": "{count} trails",
+      "hbs": "{count} staze",
+      "ru": "{count} маршрута"
+    },
+    {
+      "en": "{count} trails",
+      "hbs": "{count} staza",
+      "ru": "{count} маршрутов"
+    }
+  ]
+}
