@@ -1,4 +1,1 @@
-build
-en.json
-hbs.json
-ru.json
+*.min.json

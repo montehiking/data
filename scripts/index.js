@@ -1,23 +1,17 @@
 import { promises } from 'fs';
+import { createRequire } from 'module';
 import { join, sep } from 'path';
 
-import { createRequire } from 'module';
-
-const require = createRequire(import.meta.url);
 const { readdir, writeFile } = promises;
 
-type FileName = {
-  category: string;
-  id: string;
-  path: string;
-  type: string;
-};
-
 const ROOT = 'docs';
-const LOCALES = ['en', 'hbs', 'ru'] as const;
+const LOCALES = ['en', 'hbs', 'ru'];
 
-const getFilenames = async (directory: string): Promise<FileName[]> => {
-  const files: FileName[] = [];
+const require = createRequire(import.meta.url);
+const data = {};
+
+const getFilenames = async (directory) => {
+  const files = [];
   const listing = await readdir(directory, { withFileTypes: true });
 
   for (const item of listing) {
@@ -43,14 +37,18 @@ const getFilenames = async (directory: string): Promise<FileName[]> => {
     file: require(join('..', item.path)),
   }));
 
-  const data = LOCALES.map((locale) => ({
-    locale,
-    content: {
-      type: 'FeatureCollection',
-      features: files.map(({ file, category, id, type }) => ({
+  files.forEach(({ file, category, id, type }) => {
+    LOCALES.forEach((locale) => {
+      const key = `${type}${sep}${locale}.min.json`;
+
+      if (!data[key]) {
+        data[key] = { type: 'FeatureCollection', features: [] };
+      }
+
+      data[key].features.push({
         type: 'Feature',
         geometry: {
-          type: category === 'trails' ? 'LineString' : 'Point',
+          type: type === 'trails' ? 'LineString' : 'Point',
           coordinates: file.coordinates,
         },
         properties: {
@@ -60,14 +58,14 @@ const getFilenames = async (directory: string): Promise<FileName[]> => {
           notVerified: file.verified ? undefined : true,
           path: `/${type}/${category}/${id}/`,
         },
-      })),
-    },
-  }));
+      });
+    });
+  });
 
   await Promise.all(
-    data.map(({ locale, content }) => {
-      const path = join(ROOT, `${locale}.json`);
-      const text = JSON.stringify(content);
+    Object.keys(data).map((key) => {
+      const path = join(ROOT, key);
+      const text = JSON.stringify(data[key]);
 
       return writeFile(path, text);
     })
