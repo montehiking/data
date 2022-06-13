@@ -8,7 +8,7 @@ To make changes to any dataset, simply edit it and submit a [pull request](https
 
 We use the [json](https://en.wikipedia.org/wiki/JSON) format to store [points](/docs/points/) and [trails](/docs/trails/) data.
 
-You can use [json schemas](/schemas/) to check that all required fields are filled in correctly.
+You can use [json schemas](/docs/schemas/) to check that all required fields are filled in correctly.
 
 **Note!** The coordinates are in reverse order, similar to how it is [applied in GeoJson](https://datatracker.ietf.org/doc/html/rfc7946#section-4): longitude, latitude, altitude.
 

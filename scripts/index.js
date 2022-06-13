@@ -1,4 +1,6 @@
+import chalk from 'chalk';
 import { promises } from 'fs';
+import { validate } from 'jsonschema';
 import { createRequire } from 'module';
 import { join, sep } from 'path';
 import prettier from 'prettier';
@@ -10,6 +12,12 @@ const LOCALES = ['en', 'hbs', 'ru'];
 
 const require = createRequire(import.meta.url);
 const data = {};
+let hasErrors = false;
+
+const schemas = {
+  points: require(join('..', ROOT, 'schemas', 'point')),
+  trails: require(join('..', ROOT, 'schemas', 'trail')),
+};
 
 const getFilenames = async (directory) => {
   const files = [];
@@ -36,12 +44,21 @@ const getFilenames = async (directory) => {
     prettier.resolveConfig(process.cwd()),
   ]);
 
-  const files = filenames.map((item) => ({
-    ...item,
-    file: require(join('..', item.path)),
-  }));
+  filenames.forEach(({ path, category, id, type }) => {
+    const file = require(join('..', path));
 
-  files.forEach(({ file, category, id, type }) => {
+    const { errors } = validate(file, schemas[type]);
+
+    if (errors.length) {
+      hasErrors = true;
+
+      const text = errors
+        .map(({ property, message }) => `${chalk.yellow(property)} ${message}`)
+        .join('\n  ');
+
+      console.error(`[${chalk.red(path)}]: \n  ${text}\n`);
+    }
+
     LOCALES.forEach((locale) => {
       const key = `${type}${sep}${locale}.json`;
 
@@ -66,15 +83,19 @@ const getFilenames = async (directory) => {
     });
   });
 
-  await Promise.all(
-    Object.keys(data).map((key) => {
-      const path = join(ROOT, key);
-      const text = prettier.format(JSON.stringify(data[key], null), {
-        ...prettierOptions,
-        parser: 'json',
-      });
+  if (hasErrors) {
+    process.exit(1);
+  } else {
+    await Promise.all(
+      Object.keys(data).map((key) => {
+        const path = join(ROOT, key);
+        const text = prettier.format(JSON.stringify(data[key], null), {
+          ...prettierOptions,
+          parser: 'json',
+        });
 
-      return writeFile(path, text);
-    })
-  );
+        return writeFile(path, text);
+      })
+    );
+  }
 })();

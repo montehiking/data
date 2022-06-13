@@ -13,11 +13,11 @@
     "ru": "старый город"
   },
   "article": {
-    "en": [],
-    "hbs": [],
-    "ru": []
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
   },
 
-  "photos": [],
+  "photos": [{ "filename": "TODO" }],
   "sources": []
 }
