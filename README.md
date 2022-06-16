@@ -24,3 +24,8 @@ You can use [json schemas](/docs/schemas/) to check that all required fields are
 1. install `node` and `yarn`
 2. run `yarn install` on repository root
 3. run `yarn run build` to compile datasets
+
+## Serve datasets (developers only)
+
+Use `yarn run serve` to serve datasets.\
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.

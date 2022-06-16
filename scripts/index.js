@@ -60,7 +60,7 @@ const getFilenames = async (directory) => {
     }
 
     LOCALES.forEach((locale) => {
-      const key = `${type}${sep}${locale}.json`;
+      const key = `${type}${sep}${locale}.geojson`;
 
       if (!data[key]) {
         data[key] = { type: 'FeatureCollection', features: [] };
