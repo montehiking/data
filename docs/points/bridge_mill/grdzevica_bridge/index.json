@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.84341, 42.297947],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Most na Grđevici",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинный мост"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

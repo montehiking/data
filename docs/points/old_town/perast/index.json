@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.700078, 42.485901],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Perast",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

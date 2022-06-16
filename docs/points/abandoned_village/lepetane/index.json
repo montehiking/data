@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.69342, 42.466416],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Gornje Lepetane",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "полузаброшенная деревня"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

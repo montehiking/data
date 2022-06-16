@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.891447, 42.255955],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Sveti Stefan",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

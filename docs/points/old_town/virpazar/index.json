@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.090697, 42.246404],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Virpazar",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

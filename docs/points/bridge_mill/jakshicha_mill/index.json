@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.089636, 43.152319],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Jakšića Mlin",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старая мельница"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

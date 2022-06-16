@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.576714, 42.956705],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stari most",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый мост"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

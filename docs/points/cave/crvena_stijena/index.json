@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.4814663, 42.7790573],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crvena stijena",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "археологический памятник (пещера)"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

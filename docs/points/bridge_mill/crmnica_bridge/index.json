@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.091259, 42.246194],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Most na Crmnici",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинный мост"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

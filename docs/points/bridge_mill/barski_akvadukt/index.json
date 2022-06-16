@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.136201, 42.09414],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Barski akvadukt",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "турецкий акведук"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

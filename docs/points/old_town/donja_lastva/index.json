@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.687084, 42.44701],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Donja Lastva",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый квартал"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.754079, 42.449052],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Prčanj",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

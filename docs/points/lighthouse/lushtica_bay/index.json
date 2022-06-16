@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.664508, 42.384264],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Luštica Bay",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

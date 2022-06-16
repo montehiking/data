@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.925626, 42.389029],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stari Grad Cetinje",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый город"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.201409, 41.922381],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Ulcinj",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

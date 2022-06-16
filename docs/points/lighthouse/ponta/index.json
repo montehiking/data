@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.68466, 42.439188],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Ponta",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

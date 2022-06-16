@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.26178, 42.443031],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Hercegovačka",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый квартал"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

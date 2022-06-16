@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.704267, 42.356054],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Bigova",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

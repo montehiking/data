@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.695157, 42.430233],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Pine",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

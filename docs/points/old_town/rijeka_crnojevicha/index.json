@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.023098, 42.356522],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Rijeka Crnojevića",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.938576, 42.206433],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Petrovac",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

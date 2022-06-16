@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.737209, 42.428279],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Petkovići",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенная деревня"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

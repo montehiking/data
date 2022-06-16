@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.695614, 42.514539],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stari Grad Risan",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый квартал"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

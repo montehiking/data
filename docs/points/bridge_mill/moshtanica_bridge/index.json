@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.911652, 42.769142],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Most na Moštanici",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "древнеримский мост"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

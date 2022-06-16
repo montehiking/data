@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.201881, 41.925245],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stari Grad Ulcinj",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый город"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

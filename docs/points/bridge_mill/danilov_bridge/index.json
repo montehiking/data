@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.362631, 42.725436],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Danilov most",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинный мост"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

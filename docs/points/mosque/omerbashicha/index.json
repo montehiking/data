@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.134246, 42.094509],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Omerbašića džamija",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинная мечеть"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

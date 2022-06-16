@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.091368, 43.143706],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Titova pećina",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "пещера"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

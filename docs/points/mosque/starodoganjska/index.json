@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.259039, 42.437653],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Starodoganjska džamija",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "мечеть XV в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

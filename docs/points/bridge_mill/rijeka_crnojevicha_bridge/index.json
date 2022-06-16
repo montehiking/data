@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.024383, 42.355805],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Most na Rijeke Crnojevića",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинный мост"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

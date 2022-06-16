@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.944304, 42.596479],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stara džamija",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "деревянная мечеть XV в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

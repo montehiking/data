@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.149699, 41.952628],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Mendra",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

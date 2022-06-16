@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.783392, 42.359123],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Šišići",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

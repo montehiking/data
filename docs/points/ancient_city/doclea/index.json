@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.266768, 42.467894],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Duklja (Diokleja)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "древнеримский город"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.715574, 42.466565],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Gornji Stoliv",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

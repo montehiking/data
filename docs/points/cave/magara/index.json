@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.203216, 42.458905],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Pećina Magara",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "пещера"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.752552, 42.448724],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Prčanj",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

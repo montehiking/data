@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.00943, 42.353241],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stari Mlin",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенная мельница"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

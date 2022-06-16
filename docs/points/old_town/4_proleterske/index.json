@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.521396, 42.82394],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "IV. Proleterske",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый квартал"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

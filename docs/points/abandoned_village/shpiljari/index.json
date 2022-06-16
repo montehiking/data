@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.775936, 42.422392],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Špiljari",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенная деревня"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

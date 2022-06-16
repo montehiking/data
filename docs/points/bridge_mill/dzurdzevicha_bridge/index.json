@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.294992, 43.150276],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Most na Đurđevića Tari",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "мост через каньон"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

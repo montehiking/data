@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.735766, 42.41693],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Uljara Čelanovića",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старая маслиничная мельница"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.556443, 42.427358],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Rose",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинное поселение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.688251, 42.487247],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Gospa od Škrpjela",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

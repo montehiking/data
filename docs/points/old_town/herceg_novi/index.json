@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.537605, 42.450979],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stari Grad Herceg Novi",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый город"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

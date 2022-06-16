@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.769735, 42.424841],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stari Grad Kotor",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый город"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

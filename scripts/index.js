@@ -89,7 +89,7 @@ const getFilenames = async (directory) => {
     await Promise.all(
       Object.keys(data).map((key) => {
         const path = join(ROOT, key);
-        const text = prettier.format(JSON.stringify(data[key], null), {
+        const text = prettier.format(JSON.stringify(data[key]), {
           ...prettierOptions,
           parser: 'json',
         });

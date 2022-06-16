@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.740573, 42.433878],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Marovići",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинная полузаброшенная деревня"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

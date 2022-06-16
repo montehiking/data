@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.704191, 42.432477],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tripovići",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый квартал"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

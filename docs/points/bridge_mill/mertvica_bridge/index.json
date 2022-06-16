@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.340583, 42.729353],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Ruševine starog mosta",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "остатки старинного моста"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

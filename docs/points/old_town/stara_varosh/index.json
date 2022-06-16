@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.259173, 42.438102],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stara Varoš",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старый квартал"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

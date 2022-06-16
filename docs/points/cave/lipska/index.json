@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.95309, 42.367104],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Lipska pećina",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "пещера"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.258835, 42.439485],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Most Ribnica",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинный мост"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

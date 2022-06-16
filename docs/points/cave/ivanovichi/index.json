@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.875049, 42.292574],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Pećina Ivanovići",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "пещера"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

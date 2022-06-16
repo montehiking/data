@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.690192, 42.477422],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Svetionik Verige",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "маяк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}
