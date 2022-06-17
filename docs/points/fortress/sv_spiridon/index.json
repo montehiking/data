@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.92178, 42.25872],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Sv. Spiridon",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.699166, 42.439865],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Blokhauz Podkuk",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский блокгауз"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

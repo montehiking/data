@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.300307, 43.137281],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Ljutica vodopad",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "водопад"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

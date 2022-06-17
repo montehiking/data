@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.970905, 42.724357],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Pandurica",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "развалины замка"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

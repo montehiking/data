@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.276628, 42.451207],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Park Gorica",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "городской парк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

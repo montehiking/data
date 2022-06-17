@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.279262, 42.383554],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Nijagara",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "водопад"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

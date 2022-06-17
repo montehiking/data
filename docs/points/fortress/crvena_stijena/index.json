@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.202245, 42.462101],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Crvena Stijena (Grad)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "турецкая крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

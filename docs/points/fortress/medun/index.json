@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.366087, 42.470415],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Medun (Meteon)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "иллирийский город-крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

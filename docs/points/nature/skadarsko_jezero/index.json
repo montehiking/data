@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.211655, 42.248788],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Skadarsko jezero",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "национальный парк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

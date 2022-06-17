@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.258751, 42.43891],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Depedogen (Ribnica)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "турецкая крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

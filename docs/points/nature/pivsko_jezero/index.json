@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.840377, 43.272151],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Pivsko jezero",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "озеро"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

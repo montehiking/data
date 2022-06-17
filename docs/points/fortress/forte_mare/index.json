@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.535946, 42.450008],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Morska Kula (Forte Mare)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "боснийская крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

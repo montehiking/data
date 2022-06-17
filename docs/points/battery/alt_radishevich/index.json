@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.65287, 42.3916],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Batterie Alt Radišević",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австрийская батарея"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

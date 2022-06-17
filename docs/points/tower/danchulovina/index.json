@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.710876, 42.405238],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Dančulovina",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинный дом-крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.713169, 42.371684],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Grabovac",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.043902, 42.137125],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Tabija",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "турецкая крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

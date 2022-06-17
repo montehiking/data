@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.069907, 42.99008],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Skakavica",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "водопад"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

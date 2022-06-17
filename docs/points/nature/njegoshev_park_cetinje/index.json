@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.925277, 42.385629],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Njegošev park",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "городской парк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

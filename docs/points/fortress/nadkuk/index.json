@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.701199, 42.438371],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Blokhauz Nadkuk",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский блокгауз"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

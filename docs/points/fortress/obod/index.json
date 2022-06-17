@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.023428, 42.353799],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Obod",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "несохранившаяся крепость Ивана Чрноевича"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

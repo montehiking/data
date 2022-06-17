@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.081041, 43.122442],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Savin Kuk",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "горная вершина"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

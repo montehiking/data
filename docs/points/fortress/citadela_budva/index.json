@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.838216, 42.277122],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Svete Marije (Citadela)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "городская цитадель"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

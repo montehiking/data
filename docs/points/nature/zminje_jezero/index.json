@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.070519, 43.155629],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Zminje jezero",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "озеро"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

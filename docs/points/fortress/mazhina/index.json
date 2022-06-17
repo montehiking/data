@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.701155, 42.434889],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Blokhauz Mažina",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский блокгауз"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

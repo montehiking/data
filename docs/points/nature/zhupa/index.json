@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.706616, 42.424089],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Župa",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "городской парк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.821135, 42.318548],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Vodopad Krapina",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "водопад"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

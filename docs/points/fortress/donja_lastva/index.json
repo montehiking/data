@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.689697, 42.441939],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Blokhauz Donja Lastva",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский блокгауз"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

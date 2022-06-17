@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.942017, 42.774442],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Bedem",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "турецкая крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

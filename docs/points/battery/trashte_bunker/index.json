@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.713266, 42.369541],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Trašte Bunker",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "бункер с подземным ходом"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.596208, 42.900475],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Biogradsko jezero",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "озеро"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

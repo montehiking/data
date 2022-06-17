@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.119722, 42.271484],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Lesendro",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "черногорская крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

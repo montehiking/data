@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.370021, 42.717988],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kanjon Mrtvice",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "каньон"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

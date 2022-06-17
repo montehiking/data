@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.695622, 42.430552],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Sat kula",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "часовая башня"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

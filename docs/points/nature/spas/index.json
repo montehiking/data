@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.82278, 42.286112],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Spas",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "парк природы"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

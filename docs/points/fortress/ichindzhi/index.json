@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.519973, 42.817636],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Ičindži",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "турецкая крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

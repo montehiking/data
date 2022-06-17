@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.764166, 42.3958],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Goražda",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

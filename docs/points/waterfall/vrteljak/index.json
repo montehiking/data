@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.149835, 42.105148],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Vodopad Vrteljak",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "водопад"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

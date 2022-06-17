@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.760864, 42.408781],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Škaljari",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерская батарея"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

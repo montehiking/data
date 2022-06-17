@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.844721, 42.380631],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Lovćen",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "национальный парк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.702109, 42.432315],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Blokhauz Tripovići",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский блокгауз"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

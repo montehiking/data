@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.7324519, 42.4839375],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Bajova Kula",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "черногорский дом-крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

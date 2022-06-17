@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.197228, 42.51415],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Spuž",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "турецкая крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

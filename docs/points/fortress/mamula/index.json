@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.558058, 42.395508],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Mamula",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

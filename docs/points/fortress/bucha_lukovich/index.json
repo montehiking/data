@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.696327, 42.431487],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Palata Buća-Luković",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "средневековый дворец-крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

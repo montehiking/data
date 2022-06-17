@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.681552, 42.513783],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Vodopad Sopot",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "водопад"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

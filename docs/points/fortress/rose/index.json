@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.556341, 42.428633],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Fort Rose",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "венецианский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

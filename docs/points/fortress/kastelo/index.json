@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.937116, 42.205236],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Kastelo",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "венецианская крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

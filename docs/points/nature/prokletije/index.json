@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.913571, 42.530685],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Prokletije",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "национальный парк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

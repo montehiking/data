@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.537184, 42.451699],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Sahat kula",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "часовая башня"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.556945, 42.604724],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Bukuminsko jezero",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "озеро"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

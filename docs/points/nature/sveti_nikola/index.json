@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.847006, 42.270367],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Sveti Nikola",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "природная зона"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

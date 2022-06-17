@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.711777, 42.390749],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Solila",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "парк природы"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

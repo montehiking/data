@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.899306, 42.262136],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Vodopad",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "водопад"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

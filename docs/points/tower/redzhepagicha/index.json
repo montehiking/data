@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.946001, 42.595626],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kula Redžepagića",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "средневековый дом-крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

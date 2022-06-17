@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.774841, 42.422142],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Svetog Ivana",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "городская цитадель"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.725154, 42.504366],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Šanik",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

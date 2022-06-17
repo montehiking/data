@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.749308, 42.421184],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Vrmac",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

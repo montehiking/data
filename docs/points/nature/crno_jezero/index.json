@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.09601, 43.147245],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crno jezero",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "озеро"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

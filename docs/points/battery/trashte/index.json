@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.704936, 42.36768],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Batterie Trašte",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австрийская батарея"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

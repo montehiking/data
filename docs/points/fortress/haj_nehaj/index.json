@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.031548, 42.150392],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Haj-Nehaj",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "венецианская крепость"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

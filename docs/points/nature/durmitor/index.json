@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.101031, 43.153805],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Durmitor",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "национальный парк"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

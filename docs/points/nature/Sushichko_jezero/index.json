@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.002304, 43.179119],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Sušićko jezero",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "озеро"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

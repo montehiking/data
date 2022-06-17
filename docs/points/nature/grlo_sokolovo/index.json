@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.543905, 42.484829],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Grlo Sokolovo",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "ущелье"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

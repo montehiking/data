@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.550162, 42.420372],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Kabala",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.756779, 42.409141],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Kavač",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерская батарея"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.762486, 42.403143],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tvrđava Trojica",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "австро-венгерский форт"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

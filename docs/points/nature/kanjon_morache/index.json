@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.368446, 42.674863],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kanjon Morače",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "каньон"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

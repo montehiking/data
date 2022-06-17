@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.893974, 42.263241],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Miločer",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "парк и ботанический сад"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}
