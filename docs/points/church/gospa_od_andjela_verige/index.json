@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.6904, 42.47747],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Gospa od Anđela",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "древняя церковь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

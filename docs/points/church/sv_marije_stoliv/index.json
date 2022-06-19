@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.710332, 42.472469],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Svete Marije",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "храм XVIII в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

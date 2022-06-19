@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.702484, 42.406252],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Ruševine crkve Arhanđela Mihaila",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "руины церкви VI в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

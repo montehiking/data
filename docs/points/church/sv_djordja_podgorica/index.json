@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.267101, 42.445368],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Svetog Đorđa",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "церковь IX-XI вв."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

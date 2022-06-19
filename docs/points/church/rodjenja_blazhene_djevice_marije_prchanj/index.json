@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.747799, 42.453271],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Župa Rođenja Blažene Djevice Marije",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "храм"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

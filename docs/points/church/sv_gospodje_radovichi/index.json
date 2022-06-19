@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.671468, 42.398924],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva svete Gospodje",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "храм XIX в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

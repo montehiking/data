@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.537594, 42.45153],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Arhanđela Mihaila",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "церковь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

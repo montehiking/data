@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.030534, 42.674787],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Manastir Ostrog",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "монастырь в скале"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

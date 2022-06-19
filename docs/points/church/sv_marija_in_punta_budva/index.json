@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.837328, 42.277359],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Santa Marija in Punta",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "церковь IX в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

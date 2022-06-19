@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.811957, 42.31501],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Svetog Ilije",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "церковь XII в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

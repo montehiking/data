@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.390537, 42.766151],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Manastir Morača",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "древний монастырь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

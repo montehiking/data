@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.752884, 42.449305],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Gospa od Karmena",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "фамильная церковь Луковичей"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

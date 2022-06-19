@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.844457, 42.298038],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Manastir Podmaine (Podostrog)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "древний монастырь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

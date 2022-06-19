@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.697615, 42.486988],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Svetog Marka",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "городская усыпальница"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

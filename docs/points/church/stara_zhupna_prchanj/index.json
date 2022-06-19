@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.74456, 42.449603],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stara župna crkva",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "древняя церковь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

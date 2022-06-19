@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.739581, 42.433328],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Sveta Vrača",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "церковь XV в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

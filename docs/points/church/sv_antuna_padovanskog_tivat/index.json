@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.707383, 42.432166],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Svetog Antuna Padovanskog",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинная церковь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

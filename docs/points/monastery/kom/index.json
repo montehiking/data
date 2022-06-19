@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.128007, 42.310005],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Manastir Kom",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "монастырь XV в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

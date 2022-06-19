@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.740165, 42.41918],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kapela Svetog Nikole",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "развалины часовни 1676"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

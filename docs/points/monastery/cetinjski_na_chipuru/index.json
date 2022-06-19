@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.923553, 42.386963],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Cetinjski manastir na Ćipuru",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "руины монастыря XV в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

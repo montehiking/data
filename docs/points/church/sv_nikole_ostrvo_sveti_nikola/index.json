@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.846745, 42.271259],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Svetog Nikole",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "часовня крестоносцев"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.742182, 42.417548],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Sveti Križ",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "часовня XVII в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

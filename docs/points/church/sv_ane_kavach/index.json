@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.742461, 42.421667],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Svete Ane",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "часовня XV в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.688679, 42.486819],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Gospa od Škrpjela",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "рукотворный остров"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

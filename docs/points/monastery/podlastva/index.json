@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.807542, 42.306927],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Manastir Podlastva",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "монастырь XIV в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

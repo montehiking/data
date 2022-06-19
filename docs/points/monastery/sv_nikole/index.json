@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.74914, 42.452448],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Samostan Svetog Nikole",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "монастырь XVIII в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

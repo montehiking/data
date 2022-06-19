@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.769798, 42.273641],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Sveti Nikola na hridi",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинная часовня на острове"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

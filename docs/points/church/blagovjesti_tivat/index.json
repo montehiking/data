@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.691703, 42.438364],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Blagovjesti",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "церковь XVII в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.706541, 42.44197],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Svete Neđelje",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "разрушенная часовня XVII в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

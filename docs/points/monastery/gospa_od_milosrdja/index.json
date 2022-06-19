@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.678551, 42.410719],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Gospa od milosrđa",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "древний монастырь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

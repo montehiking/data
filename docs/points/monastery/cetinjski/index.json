@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.921726, 42.388137],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Cetinjski manastir",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "древний монастырь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

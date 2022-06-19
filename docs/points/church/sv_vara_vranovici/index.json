@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.737222, 42.368056],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Crkva Sveta Vara",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинная церковь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}
