@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.690957, 42.411448],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Ostrvo Sveti Marko (Stradioti)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенный отель"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

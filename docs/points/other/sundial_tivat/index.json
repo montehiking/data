@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.695471, 42.429819],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Sunčani časovnik",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "солнечные часы"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

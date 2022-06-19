@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.753389, 42.449147],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Palata Beskuća",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "дворец Бескуча"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

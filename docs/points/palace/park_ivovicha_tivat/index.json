@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.687106, 42.443649],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Park Ivovića",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "остатки резиденции или виллы"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

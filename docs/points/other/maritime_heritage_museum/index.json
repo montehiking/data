@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.693843, 42.437649],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Zbirka pomorskog nasljeđa",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "музей морского наследия"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

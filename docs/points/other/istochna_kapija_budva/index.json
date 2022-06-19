@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.838881, 42.277706],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Istočna kapija",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "восточные (морские) ворота"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

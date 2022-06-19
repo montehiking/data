@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.333524, 42.733569],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kapija želja",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "природная достопримечательность"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.75311, 42.44925],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Palace Luković",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "дворец Луковичей"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

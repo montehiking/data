@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.751716, 42.416518],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tuneli Vrmac",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "система старых тоннелей"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

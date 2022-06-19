@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.714433, 42.452559],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенная деревня?"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

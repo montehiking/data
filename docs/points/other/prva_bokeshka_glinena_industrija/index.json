@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.702948, 42.392701],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Prva Bokeška Glinena Industrija",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "руины старого кирпичного завода"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

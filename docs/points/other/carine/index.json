@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.694337, 42.517082],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Carine",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "археологический памятник"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

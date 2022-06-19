@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.764201, 42.436073],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Boka Aquarium",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "океанариум"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.028401, 42.356411],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Stara Fabrica ribe",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенный завод по изготовлению жемчуга из рыбьей чешуи"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

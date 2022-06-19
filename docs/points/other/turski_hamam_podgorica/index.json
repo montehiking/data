@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.266271, 42.437743],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Turski hamam",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "бывшие турецкие бани"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

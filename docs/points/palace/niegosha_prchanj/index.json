@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.748421, 42.45383],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kuća Niegoša",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "летний дом Петра II Петровича Негоша"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.70193, 42.48535],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Palata Mazarović",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "дворец XVIII в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

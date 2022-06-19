@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.701023, 42.426532],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Ljetnikovac Pima Pasquali",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "руины средневекового имения"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

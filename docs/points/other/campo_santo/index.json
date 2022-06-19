@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.770871, 42.421698],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Campo Santo",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "средневековое кладбище"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

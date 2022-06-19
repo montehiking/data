@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.091215, 42.100676],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Dvorac kralja Nikole",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "музей"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

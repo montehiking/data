@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.706841, 42.406601],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Potopljeni brod",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "затонувший корабль"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

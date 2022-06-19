@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.838175, 42.277312],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Ranohrišćanska bazilika i rimske terme",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "руины базилики V в. и римских бань"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

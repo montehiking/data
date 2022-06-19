@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.320241, 42.375278],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Šipčanik (Plantaže)",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "винодельня Плантаже"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

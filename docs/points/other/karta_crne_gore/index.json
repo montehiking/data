@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.922947, 42.387692],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Reljefna karta Crne Gore",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "старинная каменная карта"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

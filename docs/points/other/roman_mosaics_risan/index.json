@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.697052, 42.512895],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Rimski mozaici",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "римские мозаики"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

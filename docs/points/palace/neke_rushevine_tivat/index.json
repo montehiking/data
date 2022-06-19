@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.689032, 42.439753],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Ruševine ljetnikovca",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "остатки резиденции или виллы"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

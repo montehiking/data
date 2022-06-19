@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.700254, 42.485232],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Palata Visković",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "музей"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

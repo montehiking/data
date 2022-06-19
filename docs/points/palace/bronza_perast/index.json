@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.7025546, 42.4852676],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Palača Bronza",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "дворец XVIII в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.268178, 42.433592],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tamnica Jusovača",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "турецкая тюрьма"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.837052, 42.400675],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Vidikovac",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "смотровая площадка"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

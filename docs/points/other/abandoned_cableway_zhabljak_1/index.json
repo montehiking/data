@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.107697, 43.156143],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Napuštena lanovka",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенная канатная дорога"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

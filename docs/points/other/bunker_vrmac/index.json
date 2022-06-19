@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.749828, 42.419086],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Bunker",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенный бункер"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

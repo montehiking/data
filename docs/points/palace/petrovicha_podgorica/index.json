@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.250112, 42.438011],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Dvorac Petrovića",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "музей"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.874034, 42.294409],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Velja Maslina",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "памятник природы"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

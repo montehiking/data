@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.201328, 41.924748],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Trg roblja",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "невольничья площадь"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

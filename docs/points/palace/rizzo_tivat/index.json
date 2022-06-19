@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.740058, 42.419132],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kompleks Rizzo",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "руины имения XVI в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

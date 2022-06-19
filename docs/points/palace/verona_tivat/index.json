@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.705765, 42.420843],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Palata Verona",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "развалины виллы"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

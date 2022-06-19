@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.709885, 42.430835],
+  "verified": false,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kompleks Buća",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "имение"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

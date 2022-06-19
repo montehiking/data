@@ -1,0 +1,25 @@
+{
+  "coordinates": [19.103429, 43.12235],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Lanovka Žabljak - Savin Kuk",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "канатная дорога"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

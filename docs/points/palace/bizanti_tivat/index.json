@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.704336, 42.423092],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Kompleks Bizanti",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "развалины виллы"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.686968, 42.446268],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Rogač",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "природная достопримечательность"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

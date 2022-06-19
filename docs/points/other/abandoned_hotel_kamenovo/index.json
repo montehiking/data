@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.88916, 42.273351],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Napušteni hotel",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "заброшенный отель"
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}

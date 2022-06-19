@@ -1,0 +1,25 @@
+{
+  "coordinates": [18.754162, 42.447842],
+  "verified": true,
+  "name": {
+    "en": "TODO",
+    "hbs": "Tre Sorele",
+    "ru": "TODO"
+  },
+  "description": {
+    "en": "TODO",
+    "hbs": "TODO",
+    "ru": "дворец XV в."
+  },
+  "article": {
+    "en": ["TODO"],
+    "hbs": ["TODO"],
+    "ru": ["TODO"]
+  },
+  "photos": [
+    {
+      "filename": "TODO"
+    }
+  ],
+  "sources": []
+}
